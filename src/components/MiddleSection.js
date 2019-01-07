@@ -36,7 +36,7 @@ const HeroBottom = () => (
             </div>
             <div className="columns">
                 <div className="column">
-                    <MiddleComponents text="Quam lorem ipsm" icon={thirdIcon} />
+                    <MiddleComponents text="Quam lorem ipsum" icon={thirdIcon} />
                 </div>
                 <div className="column">
                     <MiddleComponents text="Sed magna finibus" icon={fourthIcon} />
